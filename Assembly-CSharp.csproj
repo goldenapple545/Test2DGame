@@ -43,6 +43,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\ConnectToRope.cs" />
      <Compile Include="Assets\Scripts\ObjectSwing.cs" />
+     <Compile Include="Assets\Scripts\Slide.cs" />
      <Compile Include="Assets\Scripts\BreakJoint.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Sprites" />
